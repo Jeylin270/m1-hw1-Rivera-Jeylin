@@ -1,1 +1,2 @@
-# m1-hw1-Rivera-Jeylin
+# My First Coding Assignment
+![Hello kitty wearing glasses typing away on her laptop] ()
